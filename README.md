@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gstaykov11
 - 👀 I’m interested in QA Automation 
-- 🌱 I’m currently learning QA Automation
+- 🌱 I’m currently learning QA Automation and Agile Project Management
 - 💞️ I am looking to collaborate with QA engineers
 - 📫 How to reach me gstaykov11@gmail.com
 
